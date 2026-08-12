@@ -98,91 +98,6 @@ To work with a data-driven organization where I can build dashboards, automate r
 
 </p>
 
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
-
-# 📂 Featured Projects
-
-## 📊 Sales Dashboard (Power BI)
-
-✔ Interactive Dashboard
-
-✔ KPI Cards
-
-✔ Drill Through
-
-✔ DAX
-
----
-
-## 🛒 Retail Sales Analysis
-
-Python
-
-SQL
-
-Pandas
-
-Matplotlib
-
----
-
-## 📈 HR Analytics Dashboard
-
-Power BI
-
-Excel
-
-DAX
-
----
-
-## 📉 Netflix Data Analysis
-
-Python
-
-EDA
-
-Visualization
-
----
-
-## 🏦 Bank Loan Analysis
-
-SQL
-
-Power BI
-
-Excel
 
 ---
 
@@ -229,17 +144,14 @@ Business Insights
 
 <p align="left">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="[https://linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/kanishka-mali/)">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:kanishkamali874@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://skillicons.dev/icons?i=github"/>
-</a>
 
 </p>
 
