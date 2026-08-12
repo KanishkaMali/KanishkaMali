@@ -88,28 +88,9 @@ To work with a data-driven organization where I can build dashboards, automate r
 
 ---
 
-# 📈 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
 
 
----
 
-# 🏆 Certifications
-
-🏅 Oracle Cloud Infrastructure AI Foundations Associate
-
-🏅 Google Data Analytics Professional Certificate *(if completed)*
-
-🏅 Power BI Certification
-
-🏅 SQL Certification
 
 ---
 
