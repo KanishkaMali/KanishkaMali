@@ -55,23 +55,24 @@ My goal is simple:
 ```text
 ┌──────────────────────────────────────────────────────┐
 │              DATA ANALYSIS & BI                      │
-│                                                       │
-│  • SQL Querying & Data Modeling                       │
-│  • Power BI Dashboards (DAX, Power Query)              │
-│  • Exploratory Data Analysis (EDA)                     │
-│  • Data Cleaning & Validation                          │
-│  • KPI Design & Tracking                                │
-│  • Excel Pivot Tables & Reporting                        │
+│                                                      │
+│  • SQL Querying & Data Modeling                      │
+│  • Power BI Dashboards (DAX, Power Query)            │
+│  • Exploratory Data Analysis (EDA)                   │
+│  • Data Cleaning & Validation                        │
+│  • KPI Design & Tracking                             │
+│  • Excel Pivot Tables & Reporting                    |
+|                                                      |
 └──────────────────────────────────────────────────────┘
 
 ┌──────────────────────────────────────────────────────┐
 │              PYTHON & AUTOMATION                     │
-│                                                       │
-│  • Pandas / NumPy Data Pipelines                        │
-│  • CSV / Excel ETL Automation                             │
-│  • Exception Handling in Production Pipelines              │
-│  • Matplotlib Visualization                                 │
-│  • Jupyter Notebook Analysis                                  │
+│                                                      │
+│  • Pandas / NumPy Data Pipelines                     │
+│  • CSV / Excel ETL Automation                        │
+│  • Exception Handling in Production Pipelines        │
+│  • Matplotlib Visualization                          │
+│  • Jupyter Notebook Analysis                         │
 └──────────────────────────────────────────────────────┘
 ```
 
